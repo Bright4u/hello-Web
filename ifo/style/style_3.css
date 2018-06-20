@@ -1,0 +1,42 @@
+﻿body {
+  width: 95%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+caption{
+text-align:center;
+font-weight:bold;
+font-size:1em;
+float:left;
+padding-top:90px;
+width:300px;
+background-color:lightgray;
+height:160px;
+margin-bottom:2px;
+}
+tbody {
+    width:70%;
+    float:right;
+    height:250px;
+    background-color:pink;
+    margin-bottom:2px;
+}
+td{
+padding-right:30px;
+}
+th{
+text-align:left
+}
+
+aside {
+    padding-top:2%;
+    padding-bottom:2%;
+    padding-left:1%;
+   background-color:gray;
+   color:white;
+   text-align:left;
+}
+table {
+        display:inline;
+     
+}
